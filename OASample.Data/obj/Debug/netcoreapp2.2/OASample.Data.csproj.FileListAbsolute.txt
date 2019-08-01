@@ -1,0 +1,9 @@
+C:\Users\awardhana\source\repos\OASample\OASample.Data\obj\Debug\netcoreapp2.2\OASample.Data.csproj.CoreCompileInputs.cache
+C:\Users\awardhana\source\repos\OASample\OASample.Data\obj\Debug\netcoreapp2.2\OASample.Data.AssemblyInfoInputs.cache
+C:\Users\awardhana\source\repos\OASample\OASample.Data\obj\Debug\netcoreapp2.2\OASample.Data.AssemblyInfo.cs
+C:\Users\awardhana\source\repos\OASample\OASample.Data\bin\Debug\netcoreapp2.2\OASample.Data.deps.json
+C:\Users\awardhana\source\repos\OASample\OASample.Data\bin\Debug\netcoreapp2.2\OASample.Data.dll
+C:\Users\awardhana\source\repos\OASample\OASample.Data\bin\Debug\netcoreapp2.2\OASample.Data.pdb
+C:\Users\awardhana\source\repos\OASample\OASample.Data\obj\Debug\netcoreapp2.2\OASample.Data.dll
+C:\Users\awardhana\source\repos\OASample\OASample.Data\obj\Debug\netcoreapp2.2\OASample.Data.pdb
+C:\Users\awardhana\source\repos\OASample\OASample.Data\obj\Debug\netcoreapp2.2\OASample.Data.csprojAssemblyReference.cache

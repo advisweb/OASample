@@ -1,0 +1,63 @@
+﻿@model IEnumerable<OASample.Data.ViewModel.UserViewModel>
+@using OASample.Data.ViewModel
+@using OASample.MVC.Resources
+@using Microsoft.AspNetCore.Mvc.Localization
+
+@inject LocService localizedService
+
+<p>
+    <a class="btn btn-sm btn-primary pointer" data-toggle="modal" data-target="#modal-action-user">
+        <i class="glyphicon glyphicon-plus"></i>Add New
+    </a>
+</p>
+<table class="table table-bordered table-striped table-condensed">
+    <thead>
+        <tr>
+            <th>@localizedService.GetLocalizedString("Firstname")</th>
+            <th>@localizedService.GetLocalizedString("Lastname")</th>
+            <th>@localizedService.GetLocalizedString("Username")</th>
+            <th>@localizedService.GetLocalizedString("Email")</th>
+            <th>@Html.DisplayNameFor(model => model.Address)</th>
+            <th>@Html.DisplayNameFor(model => model.CreatedDate)</th>
+            <th>@Html.DisplayNameFor(model => model.ModifiedDate)</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.FirstName)</td>
+                <td>@Html.DisplayFor(modelItem => item.LastName)</td>
+                <td>@Html.DisplayFor(modelItem => item.UserName)</td>
+                <td>@Html.DisplayFor(modelItem => item.Email)</td>
+                <td>@Html.DisplayFor(modelItem => item.Address)</td>
+                <td>@Html.DisplayFor(modelItem => item.CreatedDate)</td>
+                <td>@Html.DisplayFor(modelItem => item.ModifiedDate)</td>
+                <td>
+                    <a class="btn btn-sm btn-info"
+                       data-toggle="modal"
+                       data-target="#modal-action-user"
+                       asp-action="EditUser"
+                       asp-route-id="@item.Id">
+                        <i class="glyphicon glyphicon-pencil"></i>
+                        Edit
+                    </a>
+                    <a class="btm btn-sm btn-danger"
+                       asp-action="DeleteUser"
+                       asp-route-id="@item.Id">
+                        <i class="glyphicon glyphicon-times"></i>
+                        Delete
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<div aria-hidden="true" role="dialog" tabindex="-1" class="modal fade" id="modal-action-user">
+    <div class="modal-dialog">
+        <div class="modal-content modal-lg">
+            <partial name="_AddUser" model="new UserViewModel()" />
+        </div>
+    </div>
+</div>
