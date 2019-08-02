@@ -3482,11 +3482,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\awardhana\\source\\repos\\OASample\\OASample.Data\\OASample.Data.csproj",
+      "projectUniqueName": "C:\\Users\\awardhana\\Documents\\GitHub\\OASample\\OASample.Data\\OASample.Data.csproj",
       "projectName": "OASample.Data",
-      "projectPath": "C:\\Users\\awardhana\\source\\repos\\OASample\\OASample.Data\\OASample.Data.csproj",
+      "projectPath": "C:\\Users\\awardhana\\Documents\\GitHub\\OASample\\OASample.Data\\OASample.Data.csproj",
       "packagesPath": "C:\\Users\\awardhana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\awardhana\\source\\repos\\OASample\\OASample.Data\\obj\\",
+      "outputPath": "C:\\Users\\awardhana\\Documents\\GitHub\\OASample\\OASample.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

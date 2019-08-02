@@ -3664,11 +3664,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\awardhana\\source\\repos\\OASample\\OASample.Service\\OASample.Service.csproj",
+      "projectUniqueName": "C:\\Users\\awardhana\\Documents\\GitHub\\OASample\\OASample.Service\\OASample.Service.csproj",
       "projectName": "OASample.Service",
-      "projectPath": "C:\\Users\\awardhana\\source\\repos\\OASample\\OASample.Service\\OASample.Service.csproj",
+      "projectPath": "C:\\Users\\awardhana\\Documents\\GitHub\\OASample\\OASample.Service\\OASample.Service.csproj",
       "packagesPath": "C:\\Users\\awardhana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\awardhana\\source\\repos\\OASample\\OASample.Service\\obj\\",
+      "outputPath": "C:\\Users\\awardhana\\Documents\\GitHub\\OASample\\OASample.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -3689,8 +3689,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\awardhana\\source\\repos\\OASample\\OASample.Repo\\OASample.Repo.csproj": {
-              "projectPath": "C:\\Users\\awardhana\\source\\repos\\OASample\\OASample.Repo\\OASample.Repo.csproj"
+            "C:\\Users\\awardhana\\Documents\\GitHub\\OASample\\OASample.Repo\\OASample.Repo.csproj": {
+              "projectPath": "C:\\Users\\awardhana\\Documents\\GitHub\\OASample\\OASample.Repo\\OASample.Repo.csproj"
             }
           }
         }

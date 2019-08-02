@@ -38,5 +38,17 @@ namespace OASample.MVC.Controllers
             var vm = this.userService.GetUserById(id);
             return PartialView("_AddUser", vm);
         }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult AddUser(UserViewModel vm)
+        {
+            if (ModelState.IsValid)
+            {
+                this.userService.AddUser(vm);
+                this.RedirectToAction("Index");
+            }
+            return View(vm);
+        }
     }
 }

@@ -12,3 +12,17 @@ C:\Users\awardhana\source\repos\OASample\OASample.Service\bin\Debug\netcoreapp2.
 C:\Users\awardhana\source\repos\OASample\OASample.Service\obj\Debug\netcoreapp2.2\OASample.Service.csproj.CopyComplete
 C:\Users\awardhana\source\repos\OASample\OASample.Service\obj\Debug\netcoreapp2.2\OASample.Service.dll
 C:\Users\awardhana\source\repos\OASample\OASample.Service\obj\Debug\netcoreapp2.2\OASample.Service.pdb
+C:\Users\awardhana\Documents\GitHub\OASample\OASample.Service\bin\Debug\netcoreapp2.2\OASample.Service.deps.json
+C:\Users\awardhana\Documents\GitHub\OASample\OASample.Service\bin\Debug\netcoreapp2.2\OASample.Service.dll
+C:\Users\awardhana\Documents\GitHub\OASample\OASample.Service\bin\Debug\netcoreapp2.2\OASample.Service.pdb
+C:\Users\awardhana\Documents\GitHub\OASample\OASample.Service\bin\Debug\netcoreapp2.2\OASample.Data.dll
+C:\Users\awardhana\Documents\GitHub\OASample\OASample.Service\bin\Debug\netcoreapp2.2\OASample.Repo.dll
+C:\Users\awardhana\Documents\GitHub\OASample\OASample.Service\bin\Debug\netcoreapp2.2\OASample.Repo.pdb
+C:\Users\awardhana\Documents\GitHub\OASample\OASample.Service\bin\Debug\netcoreapp2.2\OASample.Data.pdb
+C:\Users\awardhana\Documents\GitHub\OASample\OASample.Service\obj\Debug\netcoreapp2.2\OASample.Service.csprojAssemblyReference.cache
+C:\Users\awardhana\Documents\GitHub\OASample\OASample.Service\obj\Debug\netcoreapp2.2\OASample.Service.csproj.CoreCompileInputs.cache
+C:\Users\awardhana\Documents\GitHub\OASample\OASample.Service\obj\Debug\netcoreapp2.2\OASample.Service.AssemblyInfoInputs.cache
+C:\Users\awardhana\Documents\GitHub\OASample\OASample.Service\obj\Debug\netcoreapp2.2\OASample.Service.AssemblyInfo.cs
+C:\Users\awardhana\Documents\GitHub\OASample\OASample.Service\obj\Debug\netcoreapp2.2\OASample.Service.csproj.CopyComplete
+C:\Users\awardhana\Documents\GitHub\OASample\OASample.Service\obj\Debug\netcoreapp2.2\OASample.Service.dll
+C:\Users\awardhana\Documents\GitHub\OASample\OASample.Service\obj\Debug\netcoreapp2.2\OASample.Service.pdb

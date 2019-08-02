@@ -17,7 +17,7 @@
             <th>@localizedService.GetLocalizedString("Lastname")</th>
             <th>@localizedService.GetLocalizedString("Username")</th>
             <th>@localizedService.GetLocalizedString("Email")</th>
-            <th>@Html.DisplayNameFor(model => model.Address)</th>
+            <th>@localizedService.GetLocalizedString("Address")</th>
             <th>@Html.DisplayNameFor(model => model.CreatedDate)</th>
             <th>@Html.DisplayNameFor(model => model.ModifiedDate)</th>
             <th>Action</th>
@@ -35,7 +35,7 @@
                 <td>@Html.DisplayFor(modelItem => item.CreatedDate)</td>
                 <td>@Html.DisplayFor(modelItem => item.ModifiedDate)</td>
                 <td>
-                    <a class="btn btn-sm btn-info"
+                    <a class="btn btn-sm btn-outline-dark"
                        data-toggle="modal"
                        data-target="#modal-action-user"
                        asp-action="EditUser"
@@ -54,10 +54,5 @@
         }
     </tbody>
 </table>
-<div aria-hidden="true" role="dialog" tabindex="-1" class="modal fade" id="modal-action-user">
-    <div class="modal-dialog">
-        <div class="modal-content modal-lg">
-            <partial name="_AddUser" model="new UserViewModel()" />
-        </div>
-    </div>
-</div>
+
+<partial name="_AddUser" model="new UserViewModel()" />

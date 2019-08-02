@@ -121,9 +121,12 @@
     <value>Email</value>
   </data>
   <data name="Firstname" xml:space="preserve">
-    <value>Nama Depan --</value>
+    <value>Firstname</value>
   </data>
   <data name="Lastname" xml:space="preserve">
-    <value>Nama Belakang</value>
+    <value>Lastname</value>
+  </data>
+  <data name="RequiredFirstname_ErrorMessage" xml:space="preserve">
+    <value>Firstname is mandatory</value>
   </data>
 </root>

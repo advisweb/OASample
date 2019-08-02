@@ -10,7 +10,7 @@ namespace OASample.Data.ViewModel
     {
         public int Id { get; set; }
 
-        [Required]
+        [Required(AllowEmptyStrings = false, ErrorMessage = "RequiredFirstname_ErrorMessage")]
         [DisplayName("Firstname")]
         public string FirstName { get; set; }
 
@@ -22,7 +22,13 @@ namespace OASample.Data.ViewModel
         public string UserName { get; set; }
 
         [Required]
+        [DataType(DataType.EmailAddress)]
         public string Email { get; set; }
+
+        [Required]
+        [DataType(DataType.Password)]
+        public string Password { get; set; }
+
         public string Address { get; set; }
         public bool IsActive { get; set; }
         public bool IsRemoved { get; set; }

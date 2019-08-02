@@ -35,6 +35,12 @@
           "OASample.MVC.dll": {}
         },
         "resources": {
+          "ar/OASample.MVC.resources.dll": {
+            "locale": "ar"
+          },
+          "en/OASample.MVC.resources.dll": {
+            "locale": "en"
+          },
           "id/OASample.MVC.resources.dll": {
             "locale": "id"
           }

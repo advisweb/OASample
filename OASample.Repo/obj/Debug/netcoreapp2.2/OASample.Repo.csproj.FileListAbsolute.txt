@@ -10,3 +10,15 @@ C:\Users\awardhana\source\repos\OASample\OASample.Repo\obj\Debug\netcoreapp2.2\O
 C:\Users\awardhana\source\repos\OASample\OASample.Repo\obj\Debug\netcoreapp2.2\OASample.Repo.csproj.CopyComplete
 C:\Users\awardhana\source\repos\OASample\OASample.Repo\obj\Debug\netcoreapp2.2\OASample.Repo.dll
 C:\Users\awardhana\source\repos\OASample\OASample.Repo\obj\Debug\netcoreapp2.2\OASample.Repo.pdb
+C:\Users\awardhana\Documents\GitHub\OASample\OASample.Repo\bin\Debug\netcoreapp2.2\OASample.Repo.deps.json
+C:\Users\awardhana\Documents\GitHub\OASample\OASample.Repo\bin\Debug\netcoreapp2.2\OASample.Repo.dll
+C:\Users\awardhana\Documents\GitHub\OASample\OASample.Repo\bin\Debug\netcoreapp2.2\OASample.Repo.pdb
+C:\Users\awardhana\Documents\GitHub\OASample\OASample.Repo\bin\Debug\netcoreapp2.2\OASample.Data.dll
+C:\Users\awardhana\Documents\GitHub\OASample\OASample.Repo\bin\Debug\netcoreapp2.2\OASample.Data.pdb
+C:\Users\awardhana\Documents\GitHub\OASample\OASample.Repo\obj\Debug\netcoreapp2.2\OASample.Repo.csprojAssemblyReference.cache
+C:\Users\awardhana\Documents\GitHub\OASample\OASample.Repo\obj\Debug\netcoreapp2.2\OASample.Repo.csproj.CoreCompileInputs.cache
+C:\Users\awardhana\Documents\GitHub\OASample\OASample.Repo\obj\Debug\netcoreapp2.2\OASample.Repo.AssemblyInfoInputs.cache
+C:\Users\awardhana\Documents\GitHub\OASample\OASample.Repo\obj\Debug\netcoreapp2.2\OASample.Repo.AssemblyInfo.cs
+C:\Users\awardhana\Documents\GitHub\OASample\OASample.Repo\obj\Debug\netcoreapp2.2\OASample.Repo.csproj.CopyComplete
+C:\Users\awardhana\Documents\GitHub\OASample\OASample.Repo\obj\Debug\netcoreapp2.2\OASample.Repo.dll
+C:\Users\awardhana\Documents\GitHub\OASample\OASample.Repo\obj\Debug\netcoreapp2.2\OASample.Repo.pdb
